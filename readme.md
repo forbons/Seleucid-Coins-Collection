@@ -1,9 +1,13 @@
 # Seleucid Coin Collection
 In general, this project aims to **organize**, **manage**, and (kinda) **publish** my own collection of Seleucid coins. During studying Classical Archaeology and Ancient History, I developed a deep interest in Numismatics. In the last years, I even started to collect a few ancient coins. However, there wasn't really any topic I focused on - the only criteria I had were the individual beauty and historicity of a coin as well as my budget, of course. As of August 2026, I decided to concentrate on collecting and studying Seleucid coins in my free time. To specify this *still* rather large field: **Seleucid bronze coinage**, especially of **usurpers** and **late Seleucid kings**. Needless to say: At this point in time, I still have quite a lot to learn (btw: I am glad to receive any kind of constructive inspiration or feedback!). Probably, I will define my focus even further in the (very) near future: I am preferring Diodotus Tryphon and Antiochus VI. Dionysus. As an outlook, I would *for sure* be interested in publishing my findings I'll come across when studying Seleucid coinage in depth, but lets see how it goes...
+
 ---
+
 ## Technicalities
-Will be added shortly, stay tuned!
+***Will be added shortly, stay tuned!***
+
 ---
+
 ## TO DO
 Below, I will list a few tasks, that I want to accomplish in order to get this project started. From there, I'll see how things go.
 
